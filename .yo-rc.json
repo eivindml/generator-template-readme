@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Eivind Mikael Lindbråten",
+      "authorEmail": "eivind.lindbraten@gmail.com",
+      "authorUrl": "http://madebymist.com"
+    }
+  }
+}
